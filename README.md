@@ -2,8 +2,8 @@
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
-* [![Shiny](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eva-koscicovska/APPR-2020-22/master?urlpath=shiny/APPR-2020-22/projekt.Rmd) Shiny
-* [![RStudio](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eva-koscicovska/APPR-2020-22/master?urlpath=rstudio) RStudio
+* [![Shiny](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eva-koscicovska/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
+* [![RStudio](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eva-koscicovska/APPR-2020-21/master?urlpath=rstudio) RStudio
 
 ## Analiza živalih
 
