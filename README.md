@@ -7,10 +7,11 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 ## Analiza živalih
 
-Analizirala bom 
+Analizirala bom podatki o domačih in gozdnih živalih ter osnovni podatki o različnih živalskih vrstah. Pogledala si bom splošne podatke o nekaterih vrstah živalih. Tudi bi želela pogledati nekaj o gozdnih živalih v nekaterih letih.
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+* json podatki - ki vsebujejo osnovne opise za živalih https://gist.github.com/Aliendroid8045/b09f9ac24273b6fd8e5184bdf1d3a62e
+* xls dokument - ki vsebuje podatkih o zgodovino različnih živalih https://data.louisvilleky.gov/sites/default/files/Animal_Outcome.csv
+* pdf dokument - informaciji o gozdnih živalih in njihovo nego https://eastbayspca.org/wp-content/uploads/2020/03/2019-East-Bay-SPCA-Animal-Statistics.pdf
 
 ## Program
 
